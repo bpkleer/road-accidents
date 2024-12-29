@@ -1,3 +1,9 @@
+# don't sync data/
+data/
+output/
+dashboard/
+catboost_info/ 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
