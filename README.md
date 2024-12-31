@@ -199,7 +199,7 @@ As stated above, for the full data set I only optimized XGBoost and CatBoost. Th
 
 ## Final Test Results
 
-For all data, the best model is the XGBoost model. After training on the whole train set, I achieved the following scores for the test set:
+For all data, the best model is the XGBoost model. You can find `ExplainerDashboards` in the script `07_optimization.ipynb`. After training on the whole train set, I achieved the following scores for the test set:
 
 | Model | MAE | MSE | RMSE | R2 |
 |-------|-----|-----|------|-----|
